@@ -7,7 +7,6 @@ import org.junit.Test
 
 /**
  * Created by takimoto on 2017/12/08.
- * Copyright (C) 2016 KDDI
  */
 class HighwayTollCalculatorTest {
     private lateinit var calculator: HighwayTollCalculator
