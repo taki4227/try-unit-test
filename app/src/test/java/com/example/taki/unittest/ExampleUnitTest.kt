@@ -1,4 +1,4 @@
-package com.example.takimoto.unittest
+package com.example.taki.unittest
 
 import org.junit.Test
 

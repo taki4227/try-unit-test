@@ -1,4 +1,4 @@
-package com.example.takimoto.unittest.model
+package com.example.taki.unittest.model
 
 /**
  * Created by takimoto on 2017/12/08.

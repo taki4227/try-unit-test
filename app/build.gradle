@@ -9,7 +9,7 @@ apply plugin: 'kotlin-android-extensions'
 android {
     compileSdkVersion 26
     defaultConfig {
-        applicationId "com.example.takimoto.unittest"
+        applicationId "com.example.taki.unittest"
         minSdkVersion 21
         targetSdkVersion 26
         versionCode 1

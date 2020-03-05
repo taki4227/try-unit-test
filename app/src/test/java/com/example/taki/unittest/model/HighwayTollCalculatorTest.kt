@@ -1,5 +1,6 @@
-package com.example.takimoto.unittest.model
+package com.example.taki.unittest.model
 
+import com.example.taki.unittest.model.HighwayTollCalculator
 import org.junit.After
 import org.junit.Assert
 import org.junit.Before

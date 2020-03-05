@@ -1,7 +1,8 @@
-package com.example.takimoto.unittest
+package com.example.taki.unittest
 
 import android.os.Bundle
 import android.support.v7.app.AppCompatActivity
+import com.example.takimoto.unittest.R
 
 class MainActivity : AppCompatActivity() {
 
