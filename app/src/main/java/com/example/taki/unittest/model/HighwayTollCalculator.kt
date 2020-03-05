@@ -1,7 +1,7 @@
 package com.example.taki.unittest.model
 
 /**
- * Created by takimoto on 2017/12/08.
+ * Created by taki on 2017/12/08.
  */
 class HighwayTollCalculator {
 

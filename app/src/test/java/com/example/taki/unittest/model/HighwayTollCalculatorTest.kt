@@ -1,13 +1,12 @@
 package com.example.taki.unittest.model
 
-import com.example.taki.unittest.model.HighwayTollCalculator
 import org.junit.After
 import org.junit.Assert
 import org.junit.Before
 import org.junit.Test
 
 /**
- * Created by takimoto on 2017/12/08.
+ * Created by taki on 2017/12/08.
  */
 class HighwayTollCalculatorTest {
     private lateinit var calculator: HighwayTollCalculator

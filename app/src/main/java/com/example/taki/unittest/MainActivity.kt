@@ -2,7 +2,7 @@ package com.example.taki.unittest
 
 import android.os.Bundle
 import android.support.v7.app.AppCompatActivity
-import com.example.takimoto.unittest.R
+import com.example.taki.unittest.R
 
 class MainActivity : AppCompatActivity() {
 
